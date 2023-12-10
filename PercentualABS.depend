@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1702221587 source:c:\users\ander\desktop\percentualabs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"func_arquivos.h"
+	"func_percentual.h"
+	<time.h>
+	"func_arquivos.c"
+	"func_percentual.c"
+
+1702038630 c:\users\ander\desktop\percentualabs\func_arquivos.h
+
+1702038613 c:\users\ander\desktop\percentualabs\func_percentual.h
+
+1702046562 c:\users\ander\desktop\percentualabs\func_arquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	"func_arquivos.h"
+	"func_percentual.h"
+
+1702038775 c:\users\ander\desktop\percentualabs\func_percentual.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	<string.h>
+	"func_arquivos.h"
+	"func_percentual.h"
+

@@ -1,0 +1,3 @@
+BaseGeral	Arquivos/BaseGeral.txt
+BaseControlados	Arquivos/BaseControlados.txt
+Lista	Arquivos/Lista.txt
