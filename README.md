@@ -1,1 +1,2 @@
-"# PercentualABS"    git init   git add README.md   git commit -m "first commit"   git branch -M main   git remote add origin https://github.com/AndersonMourato/PercentualABS.git   git push -u origin main
+# PercentualABS
+Projeto desenvolvido em C, para ajudar colegas do trabalho especificamente no setor administrativo, onde existia uma rotina de cálculos manuais.
